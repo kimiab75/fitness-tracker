@@ -27,3 +27,4 @@ export class TrainingComponent implements OnInit , OnDestroy {
     this.exerciseSub.unsubscribe();
 }
 }
+// test comment for git flow 
