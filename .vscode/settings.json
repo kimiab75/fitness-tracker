@@ -3,10 +3,6 @@
         {
             "name": "feature/test_changes_for_git_flow",
             "base": "develop"
-        },
-        {
-            "name": "feature/test_test",
-            "base": "develop"
         }
     ]
 }
