@@ -6,3 +6,4 @@ export interface Exercise{
     date?: Date;
     state? : 'completed' | 'cancelled' | null ; 
 } 
+// pointless-comment 
