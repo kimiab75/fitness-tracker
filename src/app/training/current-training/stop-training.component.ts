@@ -5,7 +5,7 @@ import { Component, Inject } from "@angular/core";
     selector: 'app-stop-training',
     template: `<h1 mat-dialog-title>are you sure?</h1>
     <mat-dialog-content>
-        <p>you already got {{data.progress}}%</p>
+        <!-- <p>you already got {{data.progress}}%</p> -->
     </mat-dialog-content>
    <mat-dialog-actions>
        <button mat-button [mat-dialog-close] ="true">yes</button>
